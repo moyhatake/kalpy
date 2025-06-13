@@ -11,7 +11,8 @@ Kalpy is a desktop calculator application built with Python, focusing on a clean
 
 ## For Windows Users: Pre-built Executable
 If you prefer not to compile the project yourself, a pre-built Windows executable is available for direct use. You can find it in the **Releases** section of this repository.  
-For those who wish to rebuild the executable, the PyInstaller build configuration is located in the **[kalpy.spec](kalpy.spec)** file.
+
+For those who wish to rebuild the executable, the PyInstaller build configuration is located in the [kalpy.spec](kalpy.spec) file.
 
 ## Requirements
 * Only the Tkinter library is needed to run from source.
