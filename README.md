@@ -1,10 +1,9 @@
 # Kalpy
 
+Kalpy is a lightweight calculator that reimagines the Windows 10 basic mode with a sleek, modern Material Design interface.
+
 ## Logo
 <img src="src/logo.png" alt="KalPy logo" width="128">
-
-## Description
-Kalpy is a desktop calculator application built with Python, focusing on a clean, minimalist design and a modern user experience. Unlike traditional bulky calculators, Kalpy will offer essential arithmetic operations within an elegant and uncluttered interface, making calculations quick and visually pleasing.
 
 ## UI
 <img src="src/ui.png" alt="KalPy UI screenshot" width="320">
@@ -15,8 +14,8 @@ If you prefer not to compile the project yourself, a pre-built Windows executabl
 For those who wish to rebuild the executable, the PyInstaller build configuration is located in the [kalpy.spec](kalpy.spec) file.
 
 ## Requirements
+*This desktop application was built using Python 3.10.*
 * Only the Tkinter library is needed to run from source.
-* *This desktop application was built using Python 3.10.*
 
 ## Open Source
 Kalpy is an open-source project. Feel free to fork the repository, explore the code, and contribute to its development!
